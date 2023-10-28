@@ -11,6 +11,6 @@ I coded on the part where the mole appears randomly.
 
 # Potential future features
 
-The score and timer should be at the top of the screen instead of underneath the holes, to make it more user friendly.
-Possibility of recording all scores and show the score the user had achieved and the current highest score. 
+The timer should be at the top of the screen instead of underneath the holes, to make it more user friendly.
+The holes where the moles randomly appear could be 3d instead of 2d to make it look realistic.
 
